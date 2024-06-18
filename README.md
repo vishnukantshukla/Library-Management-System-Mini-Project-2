@@ -48,7 +48,7 @@ The Library Management System is designed to simplify and automate the process o
 
   **Installation :**  
     **Clone the repository:**    
-      **->** git clone https://github.com/vishnukantshukla/Library-Management-System.git  
+      **->** git clone https://github.com/vishnukantshukla/Library-Management-System-Mini-Project-2.git  
   
 
   **Run the application :**  
