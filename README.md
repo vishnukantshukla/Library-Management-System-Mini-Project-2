@@ -15,8 +15,8 @@ The Library Management System is designed to simplify and automate the process o
 
 ==>The repository contains the following files and directories:  
 
-##LIBRARY_MANAGEMENT  --> Contains the core implementation of the Library Management System.  
-##SYNOPSIS_2nd.pdf -->Detailed synopsis of the project, including objectives, scope, methodology, and more.  
+_LIBRARY_MANAGEMENT  --> Contains the core implementation of the Library Management System.  
+_SYNOPSIS_2nd.pdf -->Detailed synopsis of the project, including objectives, scope, methodology, and more.  
 Synopsis  
 Introduction  
 The Library Management System is a comprehensive solution for managing the operational aspects of a library. This system reduces the workload of library staff by automating routine tasks, such as cataloging books, managing member information, and processing transactions.  
@@ -54,7 +54,7 @@ Clone the repository:
   
 
 **Run the application:**  
-  --> After cloning the project then follws the following steps-> 
+  --> After cloning the project then follws the following steps->   
   ==> For Frontend  
       
       ->open new Terminal  
